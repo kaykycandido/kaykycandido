@@ -20,9 +20,3 @@ Atualmente estou no 2º semestre, sempre buscando aprender e evoluir na área de
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 📈 Em busca de novos desafios e oportunidades para crescer!
-
----
-<!-- Sinta-se à vontade para personalizar esta mensagem! -->
-````
-
-Se quiser adicionar projetos, links ou mudar algo, é só falar!

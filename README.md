@@ -1,8 +1,3 @@
-Perfeito, obrigado pelas informações! Aqui está um modelo de README personalizado para seu perfil do GitHub, destacando seu momento como estudante e suas habilidades/tecnologias.
-
-Se quiser adicionar algo (projetos, redes sociais, frase de efeito, etc.), só avisar!
-
-````markdown name=README.md
 # Olá, sou o Kayky! 👋
 
 🎓 **Estudante de Desenvolvimento de Sistemas**  
@@ -25,11 +20,6 @@ Atualmente estou no 2º semestre, sempre buscando aprender e evoluir na área de
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 📈 Em busca de novos desafios e oportunidades para crescer!
-
-<div align="center">
-  <!-- Se quiser adicionar redes sociais, cole os links abaixo! -->
-  <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](SEULINK) -->
-</div>
 
 ---
 <!-- Sinta-se à vontade para personalizar esta mensagem! -->

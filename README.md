@@ -5,7 +5,7 @@ Atualmente estou no 2º semestre, sempre buscando aprender e evoluir na área de
 
 ## 🚀 Sobre mim
 
-- 💻 Apaixonado por programação e tecnologia
+- 💻 Estudante de programação e tecnologia
 - 📚 Estudando **Java**, **PHP** e **C#**
 - 🛠️ Tenho conhecimento em **HTML**, **CSS** e **JavaScript**
 

@@ -7,7 +7,7 @@ Atualmente estou no 2º semestre, sempre buscando aprender e evoluir na área de
 
 - 💻 Estudante de programação e tecnologia
 - 📚 Estudando **Java**, **PHP** e **C#**
-- 🛠️ Tenho conhecimento em **HTML**, **CSS** e **JavaScript**
+- 🛠️ Focando em tecnologias front-end **HTML**, **CSS**, **JavaScript**,,**Blibliotecas e Frameworks**
 
 ## 💡 Tecnologias e Ferramentas
 

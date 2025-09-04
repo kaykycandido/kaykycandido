@@ -1,6 +1,6 @@
 # Olá, sou o Kayky! 👋
 
-🎓 **Iniciando estudos em Desenvolvimento de Sistemas**  
+**Iniciando estudos em Desenvolvimento de Sistemas**  
 Atualmente estou no 2º semestre, do curso técnico! Sempre praticando e evoluindo na área de tecnologia.
 
 ## 🚀 Sobre mim

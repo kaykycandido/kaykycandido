@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 
--     21 anos
+- 21 anos
 - 💻 Estudante de programação e tecnologia
 - 🛠️ Focando em tecnologias front-end **HTML**, **CSS**, **JavaScript**,**Blibliotecas e Frameworks**
 

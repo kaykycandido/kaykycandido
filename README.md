@@ -4,9 +4,9 @@
 
 ## 🚀 Sobre mim
 
-- 21 anos
+- 🗓️ 21 anos
 - 💻 Estudante de programação e tecnologia
-- 🛠️ Focando em tecnologias front-end **HTML**, **CSS**, **JavaScript**,**Blibliotecas e Frameworks**
+- 🛠️ Focando em tecnologias front-end **HTML**, **CSS**, **JavaScript**,**Bibliotecas e Frameworks**
 
 ## 💡 Tecnologias e Ferramentas
 
@@ -16,4 +16,9 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## 📈 Em busca de novos desafios e oportunidades para crescer!

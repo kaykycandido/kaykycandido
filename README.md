@@ -1,12 +1,11 @@
 # Olá, sou o Kayky! 👋
 
-**Iniciando estudos em Desenvolvimento de Sistemas**  
-Atualmente estou no 2º semestre, do curso técnico! Sempre praticando e evoluindo na área de tecnologia.
+**Atualmente no 2° semestre Técnico em Desenvolvimento de Sistemas**  
 
 ## 🚀 Sobre mim
 
+-     21 anos
 - 💻 Estudante de programação e tecnologia
-- 📚 Estudando **JavaScript**,**Java**, **PHP** e **C#**
 - 🛠️ Focando em tecnologias front-end **HTML**, **CSS**, **JavaScript**,**Blibliotecas e Frameworks**
 
 ## 💡 Tecnologias e Ferramentas

@@ -26,10 +26,10 @@
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio" width="48" height="48" style="margin-right:8px"/>
 </a>
 <a href="https://code.visualstudio.com" title="Visual Studio Code" target="_blank" rel="noopener">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code" width="48" height="48" style="margin-right:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="48" height="48" style="margin-right:8px"/>
 </a>
 <a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noopener">
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio" width="48" height="48" style="margin-right:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48" style="margin-right:8px"/>
 </a>
 <a href="https://git-scm.com/" title="Git" target="_blank" rel="noopener">
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="48" height="48" style="margin-right:8px"/>

@@ -25,7 +25,7 @@
 <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="noopener">
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio" width="48" height="48" style="margin-right:8px"/>
 </a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noopener">
+<a href="code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noopener">
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code" width="48" height="48" style="margin-right:8px"/>
 </a>
 <a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noopener">

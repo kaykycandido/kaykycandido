@@ -22,21 +22,12 @@
 
 ## 🛠️ Ferramentas
 
-<a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="noopener">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="48" height="48" style="margin-right:8px"/>
-</a>
-<a href="https://code.visualstudio.com" title="Visual Studio Code" target="_blank" rel="noopener">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="48" height="48" style="margin-right:8px"/>
-</a>
-<a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noopener">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48" style="margin-right:8px"/>
-</a>
-<a href="https://git-scm.com/" title="Git" target="_blank" rel="noopener">
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="48" height="48" style="margin-right:8px"/>
-</a>
-<a href="https://www.figma.com/" title="Figma" target="_blank" rel="noopener">
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="48" height="48" style="margin-right:8px"/>
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="48" height="48" style="margin-right:8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="48" height="48" style="margin-right:8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48" style="margin-right:8px"/>
+<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="48" height="48" style="margin-right:8px"/>
+<img src="https://cdn.simpleicons.org/figma" alt="Figma" width="48" height="48" style="margin-right:8px"/>
+
 
 
 ## 📈 Em busca de novos desafios e oportunidades para crescer!

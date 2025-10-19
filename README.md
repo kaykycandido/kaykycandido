@@ -22,8 +22,24 @@
 
 ## 🛠️ Ferramentas
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Agora os ícones das ferramentas usam os logos reais (SVG) ao invés de badges. Se preferir outro estilo ou tamanho, posso ajustar.
+
+<a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="noopener">
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio" width="48" height="48" style="margin-right:8px"/>
+</a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noopener">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code" width="48" height="48" style="margin-right:8px"/>
+</a>
+<a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noopener">
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio" width="48" height="48" style="margin-right:8px"/>
+</a>
+<a href="https://git-scm.com/" title="Git" target="_blank" rel="noopener">
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="48" height="48" style="margin-right:8px"/>
+</a>
+<a href="https://www.figma.com/" title="Figma" target="_blank" rel="noopener">
+  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="48" height="48" style="margin-right:8px"/>
+</a>
+
+- Visual Studio · Visual Studio Code · Android Studio · Git · Figma
+
 ## 📈 Em busca de novos desafios e oportunidades para crescer!

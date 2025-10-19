@@ -22,8 +22,6 @@
 
 ## 🛠️ Ferramentas
 
-Agora os ícones das ferramentas usam os logos reais (SVG) ao invés de badges. Se preferir outro estilo ou tamanho, posso ajustar.
-
 <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="noopener">
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio" width="48" height="48" style="margin-right:8px"/>
 </a>
@@ -40,6 +38,5 @@ Agora os ícones das ferramentas usam os logos reais (SVG) ao invés de badges. 
   <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="48" height="48" style="margin-right:8px"/>
 </a>
 
-- Visual Studio · Visual Studio Code · Android Studio · Git · Figma
 
 ## 📈 Em busca de novos desafios e oportunidades para crescer!
